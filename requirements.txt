@@ -1,0 +1,6 @@
+flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+steam==1.4.4
+pycryptodome==3.18.0
+cryptography==41.0.4
